@@ -115,7 +115,7 @@ self.db_config = {
 
 5. **Run the application**
 ```bash
-python src/main.py
+python src/gui3.py
 ```
 
 ## Usage
